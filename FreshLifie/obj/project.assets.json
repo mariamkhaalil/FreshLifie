@@ -12225,11 +12225,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FreshLifie\\FreshLifie\\FreshLifie.csproj",
+      "projectUniqueName": "C:\\Users\\Ahmeda1708\\Documents\\GitHub\\FreshLifie\\FreshLifie\\FreshLifie.csproj",
       "projectName": "FreshLifie",
-      "projectPath": "D:\\FreshLifie\\FreshLifie\\FreshLifie.csproj",
+      "projectPath": "C:\\Users\\Ahmeda1708\\Documents\\GitHub\\FreshLifie\\FreshLifie\\FreshLifie.csproj",
       "packagesPath": "C:\\Users\\Ahmeda1708\\.nuget\\packages\\",
-      "outputPath": "D:\\FreshLifie\\FreshLifie\\obj\\",
+      "outputPath": "C:\\Users\\Ahmeda1708\\Documents\\GitHub\\FreshLifie\\FreshLifie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
